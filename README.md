@@ -1,4 +1,4 @@
-# installations
+# Installations
 Links and resources for installing software
 
 
